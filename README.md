@@ -152,9 +152,9 @@ background: url(Logo.png);
 ```
 
 ## OUTPUT:
-![output](./out1.png)
-![output](./out2.png)
-![output](./out3.png)
+![output](out1.png)
+![output](out2.png)
+![output](out3.png)
 
 ## Result:
 
